@@ -1,1 +1,1 @@
-https://github.com/wrya141/roadmap-sh-projects-/blob/main/frontend/single-page-cv/index.html
+https://roadmap.sh/projects/single-page-cv
